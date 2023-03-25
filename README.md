@@ -10,7 +10,7 @@ The general idea is to use the Hong Kong unconference as a test case to discover
 
 **Solution:** ask people to pay a relatively small amount to join an ordered list for ticket distribution.
 
-This list will be the order that tickets will be distributed in (whether they are free or not). 
+This list will be the order that tickets will be distributed in. If fully funded by Jack, the tickets will be free. If not, this list will be a right of first refusal chain.
 
 * * *
 **Problem:** don't know when people are able to attend
