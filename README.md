@@ -23,5 +23,8 @@ All npubs in the ticketing waitlist can modify their date ranges as often as the
 
 * * * 
 **Problem:** conferences cost money   
-**Solution:** charge for ticket. We can't just rely on Jack to pay for everything all the time, but perhaps he could fund people who are speaking at the conference.
+**Possible Solutions:** 
 
+1. The Hong Kong government just sponsored a huge web3 conference, I can probably get them to sponsor a nostr unconference. Currently poking around to ask about this.
+
+2. We will know ahead of time the total capacity of the conference and also the total cost, so we know the cost for hosting each attendee. We could ask people by default to cover this cost for themselves, and also add an option to request a free ticket if they can't afford this. Other people will probably be happy to pay for 2 tickets which would cover the free ones. Maybe we could indicate on the badge if someone sponsored a free ticket.
