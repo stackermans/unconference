@@ -22,6 +22,6 @@ This list will be the order that tickets will be distributed in. If fully funded
 All npubs in the ticketing waitlist can modify their date ranges as often as they like (replaceable events).
 
 * * * 
-**Problem:** conferences cost money
+**Problem:** conferences cost money   
 **Solution:** charge for ticket. We can't just rely on Jack to pay for everything all the time, but perhaps he could fund people who are speaking at the conference.
 
