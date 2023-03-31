@@ -13,7 +13,7 @@ The general idea is to use the Hong Kong unconference as a test case to discover
 This list will be the order that tickets will be distributed in. If fully funded by Jack, the tickets will be free. If not, this list will be a right of first refusal chain.
 
 * * *
-**Problem:** don't know when people are able to attend
+**Problem:** don't know when people are able to attend   
 **Solution:** when people join the ticketing waitlist, they can select date ranges within the next 12 months. There are three types of date ranges: 
 * **possible** are date ranges when the person can possibly attend. This is the starting condition for the entire 12 months in the UX.
 * **cannot** are date ranges where the person knows they definitely cannot attend.
